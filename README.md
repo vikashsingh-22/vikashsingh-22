@@ -16,9 +16,15 @@
 
 - 🎓 I'm a **3rd year B.Tech CSE** student at **GLA University, Mathura**
 - 🔭 Working on full-stack projects using **MERN** & **Spring Boot**
-- 💡 I love solving **Data Structures & Algorithms** problems on LeetCode
+- 💡 I love solving **Data Structures & Algorithms** problems
 - 🚀 All my projects are available at [My Portfolio](https://portfoliyvikash.netlify.app/)
 - 📫 Reach me: **kumarvikashssm531@gmail.com**
+
+---
+
+### 🚧 Currently Working On
+
+- 🛠️ **[Chat App (MERN)](https://github.com/vikashsingh-22/Chat-App)** — A real-time chat application using **MongoDB, Express, React, Node.js, and Socket.io**
 
 ---
 
