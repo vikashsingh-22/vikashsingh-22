@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
-<p align="center">Building modern, scalable, and high-performance full-stack applications 🚀</p>
+<h3 align="center">A passionate MERN stack developer from India</h3>
+<p align="center">Building modern, scalable full-stack web applications 🚀</p>
 
 <!-- Links -->
 <p align="center">
@@ -23,9 +23,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year **B.Tech CSE** Student at **GLA University, Mathura**
-- 💻 Love building scalable **MERN** and **Spring Boot** projects
-- 💡 Solving **DSA** problems on LeetCode regularly
+- 🎓 I'm a **3rd year B.Tech CSE** student at **GLA University, Mathura**
+- 🔭 Working on full-stack projects using **MERN** & **Spring Boot**
+- 💡 I love solving **Data Structures & Algorithms** problems
+- 🚀 All my projects are available at [My Portfolio](https://portfoliyvikash.netlify.app/)
+- 📫 Reach me: **kumarvikashssm531@gmail.com**
 - 🔭 Currently working on:  
   &nbsp;&nbsp;&nbsp;&nbsp;🛠️ **[Chat App (MERN)](https://github.com/vikashsingh-22/Chat-App)** — Real-time chat with **Socket.io, React, Node, MongoDB**
 
@@ -70,12 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsingh-22&theme=tokyonight" width="47%" />
 </p>
 
----
-
-
-<p align="center">
-  <strong>Because every line of code gets me closer to my dream 💻</strong>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
