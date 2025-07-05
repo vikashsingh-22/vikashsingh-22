@@ -1,85 +1,82 @@
+<!-- Hero Section -->
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A passionate MERN stack developer from India, building modern and scalable full-stack web applications.</h3>
+<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
+<p align="center">Building modern, scalable, and high-performance full-stack applications 🚀</p>
 
+<!-- Links -->
 <p align="center">
   <a href="https://portfoliyvikash.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:kumarvikashssm531@gmail.com">
-    <img src="https://img.shields.io/badge/📫 Email-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📫 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm a **3rd year B.Tech CSE** student at **GLA University, Mathura**
-- 🔭 Working on full-stack projects using **MERN** & **Spring Boot**
-- 💡 I love solving **Data Structures & Algorithms** problems
-- 🚀 All my projects are available at [My Portfolio](https://portfoliyvikash.netlify.app/)
-- 📫 Reach me: **kumarvikashssm531@gmail.com**
-
----
-
-### 🚧 Currently Working On
-
-- 🛠️ **[Chat App (MERN)](https://github.com/vikashsingh-22/Chat-App)** — A real-time chat application using **MongoDB, Express, React, Node.js, and Socket.io**
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
   <a href="https://www.linkedin.com/in/vikash-kumar2958/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/vikashsingh_2958/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 👨‍💻 About Me
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  
-  <!-- Tools & Platforms -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-
-  <!-- IDEs -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="Eclipse IDE" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-</p>
+- 🎓 3rd Year **B.Tech CSE** Student at **GLA University, Mathura**
+- 💻 Love building scalable **MERN** and **Spring Boot** projects
+- 💡 Solving **DSA** problems on LeetCode regularly
+- 🔭 Currently working on:  
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠️ **[Chat App (MERN)](https://github.com/vikashsingh-22/Chat-App)** — Real-time chat with **Socket.io, React, Node, MongoDB**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashsingh-22&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikashsingh-22&show_icons=true&theme=tokyonight&count_private=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsingh-22&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Developer MERN Stack" width="500" />
-</div>
+
+<p align="center">
+  <strong>Because every line of code gets me closer to my dream 💻</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif" />
+</p>
